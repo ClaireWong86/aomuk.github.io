@@ -1,0 +1,2 @@
+# aomuk.github.io
+blog
